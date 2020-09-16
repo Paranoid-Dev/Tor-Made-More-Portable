@@ -48,6 +48,8 @@ Enter where you want to save the Tor_Browser.exe file
 
 And then you're done!
 
+(You can remove the normal Tor Browser install on your pc if you wish, the created Tor_Browser.exe will run independently.
+
 # Usage
 Tor_Browser.exe extracts itself into a temp folder, and runs from there.
 
