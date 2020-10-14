@@ -1,6 +1,13 @@
 # Tor Made More Portable
 The Tor Browser made portable - compressed Tor Browser into 1 exe file - instructions to make your own included (for Windows PCs)
 
+# IMPORTANT!!
+This executionable extracts the browser files to *AppData\Local\Temp*, which, as a TEMP folder, one would think that it would be deleted after next reboot.
+
+However, MS made it so that unlike Linux, Windows doesn't delete the TEMP folder - you have to do it manually
+
+I'll put in a script to clear the data automatically someday, but until then...
+
 # How to make your own
 ![winr+r](https://github.com/Paranoid-OS/Tor-Made-More-Portable/blob/master/images/win%20r.png)
 
