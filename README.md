@@ -60,7 +60,7 @@ And then you're done!
 # Usage
 Tor_Browser.exe extracts itself into a temp folder, and runs from there.
 
-Therefore, any changes you make to the browser, along with history and passwords etc, won't be saved.
+Therefore, any changes you make to the browser, along with history and passwords etc, won't be saved in the exe.
 
 Click the exe file to launch - it takes a little for the browser to launch since it is unpacking all the files - about 8 seconds for me, but it will vary on the specs of your PC
 
@@ -68,3 +68,5 @@ Click the exe file to launch - it takes a little for the browser to launch since
 Change exe icon so it matches Tor Browser
 
 Change EXE description
+
+Add temp file deletion script
