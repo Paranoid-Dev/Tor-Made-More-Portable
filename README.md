@@ -72,5 +72,5 @@ Change EXE description
 Add temp file deletion script
 
 # Discord
-Paranoid Server
+Paranoid Server : 
 https://discord.gg/vuyt6HSSFb
