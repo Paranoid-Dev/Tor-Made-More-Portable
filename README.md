@@ -70,3 +70,6 @@ Change exe icon so it matches Tor Browser
 Change EXE description
 
 Add temp file deletion script
+
+# Discord
+https://discord.gg/vuyt6HSSFb
